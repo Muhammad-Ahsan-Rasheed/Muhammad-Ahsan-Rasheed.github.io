@@ -3,7 +3,7 @@ JohnDoe Free Bootstrap landing page for personal and commercial use. Designed wi
 Product Page: https://wwww.devcrud.com/
 
 
-Abubakar Site: [here](https://latestgbapps.com// "here")
+Design Motivation: [here](https://latestgbapps.com// "here")
 
 Credits:
 
